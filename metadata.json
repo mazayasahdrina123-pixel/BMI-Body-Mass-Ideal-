@@ -1,0 +1,6 @@
+{
+  "name": "BMI Check",
+  "description": "An elegant BMI Calculator and tracker with history logging, personal progress charts, lifestyle tips, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

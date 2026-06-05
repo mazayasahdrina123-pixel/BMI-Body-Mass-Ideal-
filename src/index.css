@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #006d36;
+  --color-on-primary: #ffffff;
+  --color-primary-container: #4ade80;
+  --color-on-primary-container: #005e2d;
+  --color-inverse-primary: #4de082;
+  --color-secondary: #0060ac;
+  --color-on-secondary: #ffffff;
+  --color-secondary-container: #64a8fe;
+  --color-on-secondary-container: #003c70;
+  --color-tertiary: #795900;
+  --color-on-tertiary: #ffffff;
+  --color-tertiary-container: #f6bb1f;
+  --color-on-tertiary-container: #684c00;
+  --color-error: #ba1a1a;
+  --color-on-error: #ffffff;
+  --color-error-container: #ffdad6;
+  --color-on-error-container: #93000a;
+  --color-background: #f7f9fb;
+  --color-on-background: #191c1e;
+  --color-surface: #f7f9fb;
+  --color-on-surface: #191c1e;
+  --color-on-surface-variant: #3d4a3e;
+  --color-outline: #6d7b6d;
+  --color-outline-variant: #bccabb;
+  --color-surface-container-lowest: #ffffff;
+  --color-surface-container-low: #f2f4f6;
+  --color-surface-container: #eceef0;
+  --color-surface-container-high: #e6e8ea;
+  --color-surface-container-highest: #e0e3e5;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", sans-serif;
+}
+
